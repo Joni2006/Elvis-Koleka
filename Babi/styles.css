@@ -13,8 +13,13 @@ h3 {
 
 button {
   margin: 1%;
+  border-radius: 28px;
 }
 
 .navbar {
   background-color: #364f6b;
+}
+
+body {
+  background-color: #8bcdcd;
 }
